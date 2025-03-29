@@ -12,7 +12,7 @@ pandarallel
 tqdm
 pymorphy3
 scikit-learn
-black[ipynb]
+black[jupyter]
 pyod
 statsmodels
 shap
@@ -20,3 +20,5 @@ umap
 umap-learn
 torch
 torchvision
+fastai
+torchmetrics
