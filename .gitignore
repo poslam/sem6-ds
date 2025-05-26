@@ -1,5 +1,7 @@
 .DS_Store
 catboost_info/
+mlruns/
+runs/
 
 *.jpg
 *.xlsx

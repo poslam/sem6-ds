@@ -23,3 +23,7 @@ torchvision
 fastai
 torchmetrics
 isort
+optuna
+mlflow
+lightgbm
+tensorboard
